@@ -1,0 +1,48 @@
+{
+  "formulario": {
+    "devolucoes": [
+      {
+        "id": 1,
+        "tipo": "Olist"
+      },
+      {
+        "id": 1,
+        "tipo": "Delamed/SA"
+      },
+      {
+        "id": 1,
+        "tipo": "Casa Saúde"
+      }
+    ],
+    "transportadoras": [
+      {
+        "id": 1,
+        "tipo": "Expresso S. Migual"
+      },
+      {
+        "id": 1,
+        "tipo": "Farta"
+      },
+      {
+        "id": 1,
+        "tipo": "Platinun"
+      },
+      {
+        "id": 1,
+        "tipo": "Trans Oliveira"
+      },
+      {
+        "id": 1,
+        "tipo": "Atual"
+      }
+    ]
+  },
+  "cadastros": [],
+  "planilha": [],
+  "estoques": [],
+  "contador": [
+    {
+      "contadorID": 23
+    }
+  ]
+}
